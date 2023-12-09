@@ -4,6 +4,8 @@ This repository looks into the project of tobacco use and quitting attempts. My 
 
 By meticulously analyzing survey data from the Behavioral Risk Factor Surveillance System (BRFSS), we reveal intriguing insights. The findings shed light on distinct cessation trends among various user categories, highlighting nuances in quitting behaviors over time and across geographical regions.
 
+To look into the data, you can find it as tobacco.csv.
+
 ```md
 ![website](https://aflouie.github.io/PM566Final/)
 ```
